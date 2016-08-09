@@ -1,20 +1,4 @@
-name: PawPaw Kim
-favicon: null
-layout_spectrum: 0.6096266412641853
 typography_spectrum: 0.59304208913818
-title: Cartomancer and Evolutionary Astrologer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fafeff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.31632243236526847
   saturation: 0.3052509094122797
   rhythmicContrast: 0.5068332881201059
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6096266412641853
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: PawPaw Kim
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: My Nature Self
 purpose: []
