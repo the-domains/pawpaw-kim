@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Though the gods give shamans their miraculous powers, shamans must learn the technique of invoking them. \_Korean Proverb"
-datePublished: '2016-03-16T19:22:20.233Z'
-dateModified: '2016-03-16T19:22:12.784Z'
+datePublished: '2016-08-09T17:51:35.495Z'
+dateModified: '2016-03-16T19:22:27.024Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-03-16-though-the-gods-give-shamans-their-miraculous-powers-shaman.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-though-the-gods-give-shamans-their-miraculous-powers-shaman.md
-published: true
 url: though-the-gods-give-shamans-their-miraculous-powers-shaman/index.html
 _type: Article
 
