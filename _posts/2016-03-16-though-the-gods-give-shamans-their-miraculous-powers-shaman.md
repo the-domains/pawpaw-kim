@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T18:57:23.771Z'
+datePublished: '2016-08-29T19:36:20.708Z'
 sourcePath: >-
   _posts/2016-03-16-though-the-gods-give-shamans-their-miraculous-powers-shaman.md
 inFeed: true
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-29T18:57:17.475Z'
+dateModified: '2016-08-29T19:36:20.285Z'
 title: 'Intro '
 publisher: {}
 description: >-
@@ -17,7 +17,8 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: intro/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bdbd970-3da0-4b35-864d-813ee2f25cfa.jpg)
