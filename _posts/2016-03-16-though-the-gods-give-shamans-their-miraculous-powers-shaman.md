@@ -1,27 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "Though the gods give shamans their miraculous powers, shamans must learn the technique of invoking them. \_Korean Proverb"
-datePublished: '2016-08-09T17:51:35.495Z'
-dateModified: '2016-03-16T19:22:27.024Z'
-title: ''
-author: []
+datePublished: '2016-08-29T18:56:48.100Z'
 sourcePath: >-
   _posts/2016-03-16-though-the-gods-give-shamans-their-miraculous-powers-shaman.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-29T18:53:12.649Z'
+title: 'Intro '
+publisher: {}
+description: >-
+  Though the gods give shamans their miraculous powers, shamans must learn the
+  technique of invoking them. Korean Proverb
+inLanguage: null
+inNav: false
+starred: false
 url: though-the-gods-give-shamans-their-miraculous-powers-shaman/index.html
 _type: Article
 
 ---
-Though the gods give shamans their miraculous powers, shamans must learn the technique of invoking them.  Korean Proverb
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bdbd970-3da0-4b35-864d-813ee2f25cfa.jpg)
 
-Hello, my name is PawPaw Kim. I am older now and have prepared myself all these years to finish out my life to help people any way I can. Please feel free to contact me on my Facebook page "Paw Paw Kim" and let us  participate together to love Knowledge, get in touch with the gods and discover your life lessons.
+# Intro 
+
+Though the gods give shamans their miraculous powers, shamans must learn the technique of invoking them. Korean Proverb
+
+Hello, my name is PawPawStrickland. As I have aged discovering who I am, now I am discovering the future for my next incarnation. Please feel free to contact me on my Facebook page "PawpawStrickland".
