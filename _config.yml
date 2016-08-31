@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'Intro '
+    id: ebc4d539-ed0a-46de-a4ab-dbefca177754
+    type: content
 favicon: null
 title: My Nature Self
 description: Discovering the Question
